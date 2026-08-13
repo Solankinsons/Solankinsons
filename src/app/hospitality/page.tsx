@@ -56,8 +56,8 @@ export default function HospitalityPage() {
       <section className="relative w-full h-[60vh] min-h-[500px] flex items-center justify-center pt-20">
         <div className="absolute inset-0 z-0">
           <Image 
-            src="/assets/hospitality/amber Rooms wide.jpg" 
-            alt="Amber Rooms Aerial" 
+            src="/assets/hospitality/Premium Double Room with Balcony Amber Rooms.jpg" 
+            alt="Premium Double Room with Balcony Amber Rooms" 
             fill 
             className="object-cover"
             priority
