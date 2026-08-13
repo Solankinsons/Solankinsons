@@ -35,7 +35,7 @@ export default function ProjectPartners() {
         >
           {/* Repeat logos to create a seamless infinite loop */}
           {[...LOGOS, ...LOGOS, ...LOGOS, ...LOGOS].map((logo, i) => (
-            <div key={i} className="inline-flex items-center justify-center w-48 md:w-64 h-24 mx-8 md:mx-12 shrink-0 filter brightness-0 invert opacity-60 hover:opacity-100 transition-opacity duration-300">
+            <div key={i} className="inline-flex items-center justify-center w-48 md:w-64 h-24 mx-8 md:mx-12 shrink-0 opacity-60 hover:opacity-100 transition-opacity duration-300">
               <div className="relative w-full h-full">
                 <Image 
                   src={logo.src} 
