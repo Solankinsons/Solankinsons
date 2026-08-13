@@ -17,16 +17,16 @@ export default function Home() {
       {/* Story Banner Strip */}
       <div className="w-full bg-white flex flex-col items-center justify-center border-t border-b border-gray-200">
         <div className="text-center max-w-3xl mx-auto px-6 pt-24 pb-12">
-          <h2 className="text-3xl md:text-5xl font-medium text-[#111111] mb-6">Over 50 Projects & 200 Clients</h2>
+          <h2 className="text-3xl md:text-5xl font-medium text-[#111111] mb-6">Over 50 Projects & More Than 500 Clients</h2>
           <p className="text-lg text-gray-600 font-light leading-relaxed">
-            As one of the leading construction companies in Goa, our rich history spans over 50 years. With over 50 projects and 200 clients, we have played a crucial role in shaping the landscape of North Goa.
+            As one of the leading construction companies in Goa, our rich history spans over 50 years. With over 50 projects and more than 500 clients, we have played a crucial role in shaping the landscape of North Goa.
           </p>
         </div>
         <div className="w-full max-w-6xl mx-auto px-6 pb-24 flex items-center justify-center">
           <div className="relative w-full h-[300px] md:h-[500px]">
             <Image 
               src="/assets/projects-places.png" 
-              alt="Over 50 Projects and 200 Clients" 
+              alt="Over 50 Projects and More Than 500 Clients" 
               fill 
               className="object-contain" 
             />
