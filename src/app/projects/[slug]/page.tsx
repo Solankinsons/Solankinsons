@@ -314,7 +314,8 @@ export default async function ProjectPage({ params }: { params: Promise<{ slug: 
                 <div className="flex flex-col gap-12">
                   {[
                     "/assets/tulip-house-plans/plan-title.png",
-                    "/assets/tulip-house-plans/plan-6.png"
+                    "/assets/tulip-house-plans/plan-6.png",
+                    "/assets/tulip-house-plans/plan-7.png"
                   ].map((planImg, idx) => (
                     <div key={idx} className="relative group w-full rounded-2xl overflow-hidden border border-gray-200 shadow-sm flex items-center justify-center bg-gray-50">
                       <Image
