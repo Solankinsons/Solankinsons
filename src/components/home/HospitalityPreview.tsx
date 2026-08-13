@@ -39,7 +39,7 @@ export default function HospitalityPreview() {
               className="absolute inset-0"
             >
               <Image
-                src="/assets/hospitality/amber Rooms wide.jpg"
+                src="/assets/hospitality/Premium Double Room with Balcony Amber Rooms.jpg"
                 alt="Hospitality - Amber Rooms"
                 fill
                 className="object-cover"
