@@ -78,7 +78,7 @@ export default function HeroSection() {
     >
       {/* Text Area - Overlapping building slightly */}
       <div className="absolute top-[25vh] w-full flex items-center justify-center z-20">
-        <h1 className="text-6xl md:text-8xl lg:text-[10rem] font-bold text-[#0A1A3A] text-center leading-none tracking-tight transform-gpu flex flex-row items-center justify-center gap-4 md:gap-6 uppercase whitespace-nowrap">
+        <h1 className="text-[11vw] sm:text-6xl md:text-8xl lg:text-[10rem] font-bold text-[#0A1A3A] text-center leading-none tracking-tight transform-gpu flex flex-row items-center justify-center gap-2 sm:gap-4 md:gap-6 uppercase whitespace-nowrap">
           <span ref={textLeftRef} className="block transform-gpu">SOLANKI</span>
           <span ref={textRightRef} className="block transform-gpu">& SONS</span>
         </h1>
