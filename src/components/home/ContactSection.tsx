@@ -77,7 +77,7 @@ export default function ContactSection() {
                   Altinho, Panaji, Goa 403001
                 </p>
               </div>
-              <div className="grid grid-cols-2 gap-8">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div>
                   <h3 className="text-xs uppercase tracking-widest text-gray-500 mb-2">Phone</h3>
                   <div className="flex flex-col space-y-2">
