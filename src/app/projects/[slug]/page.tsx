@@ -66,7 +66,7 @@ const projectData: Record<string, any> = {
     name: "Tulip House",
     location: "Porvorim, Goa",
     hero: "/assets/Tulip-house-main.png",
-    about: "An exclusive development featuring two 2BHK apartments and one luxurious 3BHK penthouse. Designed with precision, Tulip House offers premium amenities in a highly connected neighborhood.",
+    about: "An exclusive development featuring 2BHK apartments and luxurious 3BHK penthouse. Designed with precision, Tulip House offers premium amenities in a highly connected neighborhood.",
     amenities: [
       { title: "RFID Access", desc: "Gated project with advanced RFID access control for top-tier security." },
       { title: "OTIS Elevators", desc: "High-speed OTIS Elevators equipped with ARD backup for safety." },
